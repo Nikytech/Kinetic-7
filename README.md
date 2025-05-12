@@ -1,4 +1,4 @@
-# Kinetik8
+# Kinetik-7
 #Armbot with 7 motors, 2 step motors and 5 servomotors controled by a Raspberry pi Zero 2W and Arduino Mega2560, the project have two sensors modules, a strain gauge and infra-red optical sensor.
 #this project use a power supply with 24VDC 16.6A, have two DC-DC Converter, four fuse, 19 leds, PID control.
 #The Raspberry Pi Zero 2W is responsible for the entire system in the robotic arm. The Mega2560 handles sending PWM signals to the motors, but it operates as a slave while the Raspberry Pi acts as the master UART
